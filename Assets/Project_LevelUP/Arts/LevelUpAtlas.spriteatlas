@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LevelUpAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 2
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 4
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 09cbaed541bb9a7468427ff4687eb8a7, type: 3}
+    - {fileID: 2800000, guid: 672b97f552857c94a8869bc8925a5eb9, type: 3}
+    - {fileID: 2800000, guid: aefa3011479d2f3429e38dfb945612d4, type: 3}
+    - {fileID: 2800000, guid: d794d2d587f43e241ab9ab5d235bd81c, type: 3}
+    - {fileID: 2800000, guid: 498208cc41c6f684c866246753bfceaa, type: 3}
+    - {fileID: 2800000, guid: 956f48ea814977442a2dafbdff8c6e05, type: 3}
+    - {fileID: 2800000, guid: a1941fd02409461448dff3cf9cf14bec, type: 3}
+    - {fileID: 2800000, guid: 13ddf0e1db9985d4e89ef107d1676070, type: 3}
+    - {fileID: 2800000, guid: ef3f2d4c4a0da834580ffa79160002c1, type: 3}
+    - {fileID: 2800000, guid: 31eacafccad5e634d942d4feff5b8e7a, type: 3}
+    - {fileID: 2800000, guid: 2fd81ab999632f24bb2775e1dbbfe9aa, type: 3}
+    - {fileID: 2800000, guid: 9a8d22f4c5c37fa4dad9f273acfd2aff, type: 3}
+    - {fileID: 2800000, guid: 8aad8b0eb2e0ec1458b91b0a6f2565db, type: 3}
+    - {fileID: 2800000, guid: 31c510a52a76b35409ef73d357121e77, type: 3}
+    - {fileID: 2800000, guid: ae74c71768649b347a049dba71ed857a, type: 3}
+    - {fileID: 2800000, guid: b477534cdd3a21e41b6d40895b5afee2, type: 3}
+    - {fileID: 2800000, guid: f4c6b453aaf7eea48a4d09776d6d3b73, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - a1941fd02409461448dff3cf9cf14bec: 21300000
+    - aefa3011479d2f3429e38dfb945612d4: 21300000
+    - 13ddf0e1db9985d4e89ef107d1676070: 21300000
+    - f4c6b453aaf7eea48a4d09776d6d3b73: 21300000
+    - 9a8d22f4c5c37fa4dad9f273acfd2aff: 21300000
+    - 31c510a52a76b35409ef73d357121e77: 21300000
+    - d794d2d587f43e241ab9ab5d235bd81c: 21300000
+    - 09cbaed541bb9a7468427ff4687eb8a7: 21300000
+    - 672b97f552857c94a8869bc8925a5eb9: 21300000
+    - ae74c71768649b347a049dba71ed857a: 21300000
+    - 2fd81ab999632f24bb2775e1dbbfe9aa: 21300000
+    - 956f48ea814977442a2dafbdff8c6e05: 21300000
+    - b477534cdd3a21e41b6d40895b5afee2: 21300000
+    - ef3f2d4c4a0da834580ffa79160002c1: 21300000
+    - 498208cc41c6f684c866246753bfceaa: 21300000
+    - 31eacafccad5e634d942d4feff5b8e7a: 21300000
+    - 8aad8b0eb2e0ec1458b91b0a6f2565db: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a1941fd02409461448dff3cf9cf14bec, type: 3}
+  - {fileID: 21300000, guid: aefa3011479d2f3429e38dfb945612d4, type: 3}
+  - {fileID: 21300000, guid: 13ddf0e1db9985d4e89ef107d1676070, type: 3}
+  - {fileID: 21300000, guid: f4c6b453aaf7eea48a4d09776d6d3b73, type: 3}
+  - {fileID: 21300000, guid: 9a8d22f4c5c37fa4dad9f273acfd2aff, type: 3}
+  - {fileID: 21300000, guid: 31c510a52a76b35409ef73d357121e77, type: 3}
+  - {fileID: 21300000, guid: d794d2d587f43e241ab9ab5d235bd81c, type: 3}
+  - {fileID: 21300000, guid: 09cbaed541bb9a7468427ff4687eb8a7, type: 3}
+  - {fileID: 21300000, guid: 672b97f552857c94a8869bc8925a5eb9, type: 3}
+  - {fileID: 21300000, guid: ae74c71768649b347a049dba71ed857a, type: 3}
+  - {fileID: 21300000, guid: 2fd81ab999632f24bb2775e1dbbfe9aa, type: 3}
+  - {fileID: 21300000, guid: 956f48ea814977442a2dafbdff8c6e05, type: 3}
+  - {fileID: 21300000, guid: b477534cdd3a21e41b6d40895b5afee2, type: 3}
+  - {fileID: 21300000, guid: ef3f2d4c4a0da834580ffa79160002c1, type: 3}
+  - {fileID: 21300000, guid: 498208cc41c6f684c866246753bfceaa, type: 3}
+  - {fileID: 21300000, guid: 31eacafccad5e634d942d4feff5b8e7a, type: 3}
+  - {fileID: 21300000, guid: 8aad8b0eb2e0ec1458b91b0a6f2565db, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - rays3 218x512
+  - bow
+  - Reward_Ad_Icon
+  - yellow_fog
+  - RoundedSquare_256x256_R70 3
+  - star2
+  - Button2
+  - girl_1
+  - $_big
+  - window_background_frame
+  - RoundedSquare_256x256_R70 2
+  - Button_green
+  - window_background_lvl_up
+  - RoundedSquare_128x128_R40
+  - Button3
+  - RoundedSquare_256x256_R70
+  - star1
+  m_RenderDataMap: {}
+  m_Tag: LevelUpAtlas
+  m_IsVariant: 0
